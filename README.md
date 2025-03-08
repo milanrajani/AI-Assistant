@@ -28,7 +28,7 @@ git clone https://github.com/milanrajani/chatbot.git
 2. Navigate to the Project Directory
 
 ```bash
-cd chatbot
+cd AI_Assistant
 ```
 Then, Instal the required dependiences
 
