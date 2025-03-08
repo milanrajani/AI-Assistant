@@ -8,7 +8,7 @@ efficient interface.
 
 Follow these steps to set up and run the project on your local system.
 
-# Prerequisites
+Prerequisites
 
 Ensure you have the following installed on your system:
 
