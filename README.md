@@ -107,7 +107,7 @@ Once you have the dependencies installed and the API key set up, you can start t
 ```bash
 npm run start
 ```
-Open your browser and navigate to [http://localhost:5000](http://localhost:4000) to interact with the chatbot.
+Open your browser and navigate to [http://localhost:4000](http://localhost:4000) to interact with the chatbot.
 
 
 
