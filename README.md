@@ -10,5 +10,7 @@ Follow these steps to set up and run the project on your local system.
 Prerequisites
 
 Ensure you have the following installed on your system:
+
 • Nodejs (v16 or later)
+
 • Git
