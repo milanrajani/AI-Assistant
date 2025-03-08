@@ -78,7 +78,7 @@ SyntaxError: Cannot use import statement outside a module
 
 
 ```  
-then replcae the package.json file with the below code:
+then replace the package.json file with the below code:
 
 ```bash
 {
