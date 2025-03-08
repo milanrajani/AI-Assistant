@@ -79,7 +79,26 @@ SyntaxError: Cannot use import statement outside a module
 
 ```  
 then replcae the package.json file with the below code:
-![image](https://github.com/user-attachments/assets/52ff7f0f-ae2b-423c-8a16-b2a79483efaf)
+
+```bash
+{
+  "type": "module",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.9",
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.1",
+    "nodemon": "^3.1.9",
+    "openai": "^4.85.3",
+    "tailwindcss": "^4.0.9"
+  },
+  "scripts": {
+    "start": "node server/server.js"
+  }
+}
+```
 
 
 
