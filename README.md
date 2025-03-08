@@ -57,6 +57,31 @@ You will need an API key to access OpenAl's GPT-40. Follow these steps to genera
 
 ![image](https://github.com/user-attachments/assets/5a2091e9-6524-4dd5-bd54-8bdfb698bf1f)
 
+7. If you are using the mac and face such error
+
+```bash
+(node:18069) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use node --trace-warnings ... to show where the warning was created)
+/Users/siam/Desktop/untitled folder/chatbot/server/server.js:1
+import express from "express";
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1178:20)
+    at Module._compile (node:internal/modules/cjs/loader:1220:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+
+```  
+then replcae the package.json file with the below code:
+![image](https://github.com/user-attachments/assets/52ff7f0f-ae2b-423c-8a16-b2a79483efaf)
+
+
 
 Once you have the dependencies installed and the API key set up, you can start the application by running the following command:
 
