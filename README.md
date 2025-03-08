@@ -55,7 +55,7 @@ You will need an API key to access OpenAl's GPT-40. Follow these steps to genera
 
 6. After coping the API key head over to server.js file and paste your API key on line number 23.
 
-![image](https://github.com/user-attachments/assets/5a2091e9-6524-4dd5-bd54-8bdfb698bf1f)
+![image](https://github.com/user-attachments/assets/1d11d224-b638-4992-9862-5391b2ecff31)
 
 7. If you are using the mac and face such error
 
