@@ -25,8 +25,7 @@ Clone this repository to your local machine using the following command
 ```bash
 git clone https://github.com/milanrajani/chatbot.git
 ```
-2. Install Dependencies
-Navigate to the Project Directory
+2. Navigate to the Project Directory
 
 ```bash
 cd chatbot
